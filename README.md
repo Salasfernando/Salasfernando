@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu Github, sou Fernando Salas!
 
-Meu nome é Fernando Salas e sou bacharel em Direito. Estou atualmente em transição de carreira para a área de tecnologia e estou focado em me tornar um desenvolvedor Full Stack, através do programa de estudos intensivos da Rocketseat. Paralelamente, estou cursando o 4º período do curso de Análise e Desenvolvimento de Sistemas, pela Universidade IESB, aprofundando ainda mais meus conhecimentos e habilidades nessa área promissora.
+Meu nome é Fernando Salas sou bacharel em Direito. Estou atualmente em transição de carreira para a área de tecnologia e estou focado em me tornar um desenvolvedor Full Stack, através do programa de estudos intensivos da Rocketseat. Paralelamente, estou cursando o 4º período do curso de Análise e Desenvolvimento de Sistemas, pela Universidade IESB, aprofundando ainda mais meus conhecimentos e habilidades nessa área promissora.
 
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salas-fernando/)
