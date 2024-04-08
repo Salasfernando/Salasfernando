@@ -12,7 +12,7 @@ A Bachelor of Law and a technology enthusiast, I am immersed in the world of ful
 | **Back-end**            | <div><img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></div>|
 | **Other technologies**  | <div><img align="center" alt="nodejs" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=purple" /> <img align="center" alt="nodejs" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><img align="center" alt="nodejs" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></div>            |
 
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=Salasfernando&show_icons=true&theme=dracula)
+![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=Salasfernando&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salasfernando)](https://github.com/Salasfernando/github-readme-stats)
 
 🚀 Currently, my focus is on becoming a Full Stack developer through Rocketseat’s intensive program. I am also pursuing the 4th semester of Systems Analysis and Development at IESB University. These studies are further expanding my technical repertoire in an area that promises to revolutionize how we interact with technology.
 
@@ -23,7 +23,3 @@ A Bachelor of Law and a technology enthusiast, I am immersed in the world of ful
 🔗 **Connections**: I’m always open to connecting with other professionals in the field and exploring opportunities for mutual learning and growth.
 
 Let’s innovate together! 🌟
-
-### Tecnologias que uso no meu dia
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salasfernando)](https://github.com/Salasfernando/github-readme-stats)
