@@ -24,4 +24,4 @@ A Bachelor of Law and a technology enthusiast, I am immersed in the world of ful
 
 🔗 **Connections**: I’m always open to connecting with other professionals in the field and exploring opportunities for mutual learning and growth.
 
-Let’s innovate together! 🌟
+Let’s innovate together!
